@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Code-Summarizer.git
+git clone https://github.com/AetherCodeHQ/Code-Summarizer.git
 cd Code-Summarizer
 ```
 
